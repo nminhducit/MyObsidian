@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Daily Notes/2. RESOURCE/attachments",
+  "showUnsupportedFiles": true,
+  "showLineNumber": false,
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Daily Notes/0. JOURNAL"
+}
